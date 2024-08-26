@@ -1,4 +1,4 @@
-name: 'Dokku Github Action'
+name: 'Dokku Deploy - Github Action'
 description: 'Deploy applications to Dokku'
 author: 'Vitaly Liber'
 branding:
